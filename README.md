@@ -14,7 +14,7 @@ This sub-directory contains projects related to the analysis and simulation of e
 This sub-directory contains Revit models of power system installations. The models include the placement of electrical equipment, cable routing, and electrical diagrams. Installation are categorized into electrical, mechanical, plumbing, and HVAC. These models are useful for planning and designing actual construction project and for coordinating with other building systems.
 
 ## License
-All the projects in this repository are open-source and available under the MIT License. Please see the LICENSE file for more information.
+Please see the LICENSE file for more information.
 
 ## Contributions
 Contributions to this repository are welcome. If you find a bug or have a feature request, please open an issue. If you would like to contribute code, please fork the repository and submit a pull request.
